@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/alecthomas/voluptuous/commit/44593ce7c330faf9418252c4b5448f4736144a7f",
       "git:hexsha": "44593ce7c330faf9418252c4b5448f4736144a7f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/alecthomas/voluptuous/commit/e59e5c54df7c7a757a49e57ec40682aab4ba653f",
