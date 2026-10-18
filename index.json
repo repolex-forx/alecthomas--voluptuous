@@ -1,0 +1,11 @@
+{
+  "org": "alecthomas",
+  "repo": "voluptuous",
+  "versions": [
+    {
+      "commit": "44593ce7c330faf9418252c4b5448f4736144a7f",
+      "tag": "",
+      "parsed_at": "2026-10-18T02:48:02.145563+00:00"
+    }
+  ]
+}
